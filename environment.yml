@@ -2,7 +2,6 @@ name: xaitools
 channels:
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=main
   - ca-certificates=2021.1.19=h06a4308_1
   - cairo=1.14.12=h7636065_2
   - certifi=2020.12.5=py36h06a4308_0
@@ -18,7 +17,6 @@ dependencies:
   - jpeg=9b=h024ee3a_2
   - ld_impl_linux-64=2.33.1=h53a641e_7
   - libffi=3.3=he6710b0_2
-  - libgcc-ng=9.1.0=hdf63c60_0
   - libpng=1.6.37=hbc83047_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
   - libtiff=4.2.0=h85742a9_0
